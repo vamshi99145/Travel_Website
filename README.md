@@ -14,7 +14,8 @@ Hello there, I'm Manthan Ugemuge <img src="https://github.com/ManthanUgemuge/Man
 
 <br />
 <br />
-## Browser Support
+<hr>
+# Browser Support
 
 At present, You can view Website in:
 
