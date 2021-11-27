@@ -13,7 +13,6 @@ Hello there, I'm Manthan Ugemuge <img src="https://github.com/ManthanUgemuge/Man
 -  A Navigation Scroll Bar will be their which will we Helpfull seeing `Images throughout Web Page` & `Scrolling Web Page`.  
 
 <br />
-<br />
 
 # Tech Stacks Used
 
