@@ -8,11 +8,12 @@
     <title>TravelIndia</title>
     <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
 
-    <!-- font awesome cdn link  -->
+    <!-- font awesome cdn link for fonr awesome 5  used  -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
     <!-- custom css file link  -->
     <link rel="stylesheet" href="style.css">
+    <!-- custom icon for Travel Website-->
     <link rel="icon" type="image/png" sizes="32x32" href="images/Aeroplane.png">
 
 </head>
@@ -27,16 +28,17 @@
                     style="object-fit: contain; width: 200px; height: 30px">
             </div>
         </a>
-
-        <nav class="navbar">
-            <a href="#home">Home</a>
-            <a href="#book">Book</a>
-            <a href="#services">Services</a>
-            <a href="#packages">Packages</a>
-            <a href="#gallery">Gallery</a>
-            <a href="#review">Review</a>
-            <a href="#contact">Contact</a>
-        </nav>
+        <div class="nav">
+            <nav class="navbar">
+                <a href="#home">Home</a>
+                <a href="#book">Book</a>
+                <a href="#services">Services</a>
+                <a href="#packages">Packages</a>
+                <a href="#gallery">Gallery</a>
+                <a href="#review">Review</a>
+                <a href="#contact">Contact</a>
+            </nav>
+        </div>
 
         <div class="icons">
             <i class="fas fa-user" id="login-btn"></i>
@@ -49,11 +51,11 @@
         <form action="">
             <h3>login</h3>
             <input type="email" class="box" placeholder="Enter your Email">
-            <input type="password" class="box" placeholder="enter your password">
-            <input type="submit" value="login now" class="btn">
+            <input type="password" class="box" placeholder="Enter your Password">
+            <input type="submit" value="Login Now" class="btn">
             <input type="checkbox" id="remember">
-            <label for="remember">remember me</label>
-            <p>forget password? <a href="#">click here</a></p>
+            <label for="remember">Remember me</label>
+            <p>Forget password? <a href="#">click here</a></p>
             <p>don't have and account? <a href="#">register now</a></p>
         </form>
     </div>
@@ -61,10 +63,10 @@
     <section class="home" id="home">
 
         <div class="content">
-            <h3>TravelIndia Welcomes You!!! 👋</h3>
+            <h3>TravelIndia Welcomes You!</h3>
             <p>Discover India with us, Adventure Awaits</p>
             <p>India is yours to Explore</p>
-            <a href="https://www.tourmyindia.com/blog/" class="btn">Know more>>></a>
+            <a href="https://www.tourmyindia.com/blog/" class="btnmain">Know more>>></a>
         </div>
 
         <div class="controls">
@@ -76,7 +78,7 @@
         </div>
 
         <div class="img-container">
-            <img src="images/imagecon1.jpg" id="img-slider" loop autoplay>
+            <img src="images/imagecon1.jpg" id="img-slider">
         </div>
 
     </section>
@@ -97,26 +99,28 @@
 
             <form action="">
                 <div class="inputBox">
-                    <h3>Location 📍</h3>
+                    <h3><i class="fas fa-map-marker-alt"></i> Location </h3>
                     <input type="text" placeholder="Destination Name">
                 </div>
                 <div class="inputBox">
-                    <h3>No of Persons 🧑‍🤝‍🧑</h3>
+                    <h3><i class="fas fa-user-friends"></i> No of Persons </h3>
                     <input type="number" placeholder="Number of Guests">
                 </div>
                 <div class="inputBox">
-                    <h3>Date of arrival 🛬</h3>
+                    <h3><i class="fas fa-phone-alt"></i> Phone No </i></h3>
+                    <input type="number" placeholder="Contact Number">
+                </div>
+                <div class="inputBox">
+                    <h3><i class="fas fa-plane-arrival"></i> Arrival Date </h3>
                     <input type="date">
                 </div>
                 <div class="inputBox">
-                    <h3>Date of leaving 👋</h3>
+                    <h3><i class="fas fa-plane-departure"></i> Departure Date </h3>
                     <input type="date">
                 </div>
                 <input type="submit" class="btn" value="Book Now">
             </form>
-
         </div>
-
     </section>
 
     <!-- book section ends -->
@@ -488,15 +492,16 @@
         <br />
         <div class="row">
 
-            <div class="image">
-                <img src="images/contact-img.png" alt="">
+            <div class="map" style="width: 40%">
+                <iframe width="380" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+                    src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Be%20368%20A,%20Gali%20No%201,%20Near%20Lig%20Flats,%20Hari%20Nagar+(TravelIndia)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed">
+                    <a href="https://www.gps.ie/car-satnav-gps/">best sat navs</a>
+                </iframe>
             </div>
-
             <form action="">
                 <div class="inputBox">
                     <input type="text" placeholder="Name">
                     <input type="number" placeholder="Phone No">
-
                 </div>
                 <div class="inputBox">
                     <input type="email" placeholder="Email">
@@ -515,7 +520,7 @@
     <section class="footer">
         <div class="box-container">
             <div class="box">
-                <h3>About uss</h3>
+                <h3>About Us</h3>
                 <p>We Believe in Safe & Happy Travel. Do make yourself feel like party of TravelIndia Family. Visit any
                     destination at very ease and safety with us.
                 </p>
@@ -540,18 +545,20 @@
             </div>
             <div class="box">
                 <h3>Contact us</h3>
-                <p>📞 +1 9087267762</i></p>
-                <p>📧 Travelindia@agency.com</i></p>
-                <p>🏠 Purani Gali Vasant Road, Purani Delhi</i></p>
+                <p><i class="fas fa-phone-alt"></i> +1 9087267762</i></p>
+                <p><i class="fas fa-envelope"></i> Travelindia@agency.com</i></p>
+                <p><i class="fas fa-home"></i> Be 368 A, Gali No 1, Near Lig Flats, Hari Nagar</i></p>
             </div>
 
             <div class="box">
                 <h3>Follow us</h3>
-                <a href="https://www.facebook.com/groups/Travel.ind">Facebook</a>
-                <a href="https://www.instagram.com/manthanugemuge/">Instagram</a>
-                <a href="https://twitter.com/travelindiasafe">Twitter</a>
-                <a href="https://www.linkedin.com/in/manthanugemuge/">Linkedin</a>
-                <a href="https://github.com/ManthanUgemuge/TravelIndia">Github</a>
+                <a href="https://www.facebook.com/groups/Travel.ind"><i class="fab fa-facebook-square"></i> Facebook</a>
+                <a href="https://www.instagram.com/manthanugemuge/"><i class="fab fa-instagram"></i> Instagram</a>
+                <a href="https://twitter.com/travelindiasafe"><i class="fab fa-twitter"></i> Twitter</a>
+                <a href="https://www.linkedin.com/in/manthanugemuge/"><i class="fab fa-linkedin"></i> Linkedin</a>
+                <a href="https://github.com/ManthanUgemuge"><i class="fab fa-github"></i> Github</a>
+                <a href="https://github.com/ManthanUgemuge/TravelIndia"><i class="fas fa-code-branch"></i></i>
+                    Branch</a>
             </div>
         </div>
         <h1 class="credit"> Created by <span> Manthan Ugemuge</span> | &copy; All rights reserved! by TravelIndia </h1>
