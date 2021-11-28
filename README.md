@@ -21,8 +21,11 @@ Hello there, I'm Manthan Ugemuge <img src="https://github.com/ManthanUgemuge/Man
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 -`HTML`: The HyperText Markup Language, or HTML is the Standard markup languages for documents designed to be displayed in a Web Browser.
+
 -`CSS`: CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed.
+
 -`JavaScript`:  JavaScript is high-level, use to make webpage more interactive and more responsive.
+
 -`API`: Application Programming Interface, which is a software intermediary that allows two applications to talk to each other.
 <hr>
 
@@ -37,10 +40,11 @@ Hello there, I'm Manthan Ugemuge <img src="https://github.com/ManthanUgemuge/Man
 
 # Modules:
 
--`Home PAGE`: Web page containing of different components like Navigation Bar, Login Icon & different <div>.
-A Homepage consists different Sections from Header, Image Button, 
+-`Home PAGE`: Web page containing of different components like Navigation Bar, Login Icon & different <div>. A Homepage consists different Sections from Header, Image Button, 
 Login Form, Book Now, Services, Packages, Gallery, Review, Contact Us, Map API & Footer. 
-Sections in Webpage
+  
+## Sections in Webpage:
+  
 -`Header`: It Consists of Navbar and has quick link to go easily through any section on Website.
 
 -`Image Button`: It Helps to go through images which is placed in Image Slider.
