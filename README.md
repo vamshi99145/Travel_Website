@@ -14,13 +14,54 @@ Hello there, I'm Manthan Ugemuge <img src="https://github.com/ManthanUgemuge/Man
 
 <br />
 
-# Tech Stacks Used
+# Tech Stacks Used :
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+-`HTML`: The HyperText Markup Language, or HTML is the Standard markup languages for documents designed to be displayed in a Web Browser.
+-`CSS`: CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed.
+-`JavaScript`:  JavaScript is high-level, use to make webpage more interactive and more responsive.
+-`API`: Application Programming Interface, which is a software intermediary that allows two applications to talk to each other.
 <hr>
+
+# Software Requirements:
+
+| Description     | Type                      |
+| :--------| :--------------------- |
+| `Operating System` | Windows/Mac |
+| `Language` | HTML/CSS/JavaScript |
+| `IDE` | Visual Studio Code  |
+| `Browser` | Google Chrome/Microsoft Edge / Firefox / Safari / Opera Mini |
+
+# Modules:
+
+-`Home PAGE`: Web page containing of different components like Navigation Bar, Login Icon & different <div>.
+A Homepage consists different Sections from Header, Image Button, 
+Login Form, Book Now, Services, Packages, Gallery, Review, Contact Us, Map API & Footer. 
+Sections in Webpage
+-`Header`: It Consists of Navbar and has quick link to go easily through any section on Website.
+
+-`Image Button`: It Helps to go through images which is placed in Image Slider.
+
+-`Login Form`: This Section Consists of Email, Password, Login Now, Remember Me, Forget Forward & Register Now.
+
+-`Book Now`: In this Section you can select Location, Number of Persons, Phone No, Arrival Date & Departure Date with Book Now Button which will help in Booking Package for Travelling.
+
+-`Services`: In This Section you can see what services Provided by our TravelIndia Website.
+
+-`Packages`: In this Section you can decide where you want to travel by seeing different packages with its ratings, Booking Button and information.
+
+-`Gallery`: In this Section you can see Images captured by our old customers and Staff Members while Travelling which will help you decide you Travel Destination.
+
+-`Review`: In this Section you can see Latest Reviews, images and Ratings provided by them to our Website with message they want to convey us.
+
+-`Contact`: In this Section you can contact us by writing Name, Phone Number, Email, Subject, Message & Send Message Button.
+
+-`Map API`: In this Section you can create real-world, real-time experiences with the latest Maps, Routes, and Places features from Google Maps Platform. Built by the Google team for developers everywhere.
+
+-`Footer`: In this Section you can see About Us, Branch Location, Quick Links, Contact Us and Follow Us.
 
 # Browser Support
 
