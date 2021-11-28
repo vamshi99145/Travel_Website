@@ -40,8 +40,7 @@ Hello there, I'm Manthan Ugemuge <img src="https://github.com/ManthanUgemuge/Man
 
 # Modules:
 
--`Home PAGE`: Web page containing of different components like Navigation Bar, Login Icon & different <div>. A Homepage consists different Sections from Header, Image Button, 
-Login Form, Book Now, Services, Packages, Gallery, Review, Contact Us, Map API & Footer. 
+-`Home PAGE`: Web page containing of different components like Navigation Bar, Login Icon & different divisions. A Homepage consists different Sections from Header, Image Button, Login Form, Book Now, Services, Packages, Gallery, Review, Contact Us, Map API & Footer. 
   
 ## Sections in Webpage:
   
