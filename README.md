@@ -27,7 +27,7 @@ Hello there, I'm Manthan Ugemuge <img src="https://github.com/ManthanUgemuge/Man
 
 -`JavaScript`:  JavaScript is high-level, use to make webpage more interactive and more responsive.
 
--`API`: Application Programming Interface, which is a software intermediary that allows two applications to talk to each other.
+-`API`: Application Programming Interface, which is a software intermediary that allows two applications to talk to each other. [Learn more](https://www.maps.ie/create-google-map/)
 <hr>
 
 # Software Requirements:
