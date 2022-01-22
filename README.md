@@ -67,7 +67,7 @@ Hello there, I'm Manthan Ugemuge <img src="https://github.com/ManthanUgemuge/Man
 
 -`Footer`: In this Section you can see About Us, Branch Location, Quick Links, Contact Us and Follow Us.
 
-# Browser Support
+## Browser Support
 
 At present, You can view Website in:
 
