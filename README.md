@@ -14,7 +14,7 @@ Hello there, I'm Manthan Ugemuge <img src="https://github.com/ManthanUgemuge/Man
 
 <br />
 
-# Tech Stacks Used :
+## Tech Stacks Used :
 
 <a target="_blank" href="https://www.w3schools.com/html/default.asp"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></img></a>
 <a target="_blank" href="https://www.w3schools.com/css/default.asp"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></img></a>
@@ -30,7 +30,7 @@ Hello there, I'm Manthan Ugemuge <img src="https://github.com/ManthanUgemuge/Man
 -`API`: Application Programming Interface, which is a software intermediary that allows two applications to talk to each other. [Learn more](https://www.maps.ie/create-google-map/)
 <hr>
 
-# Software Requirements:
+## Software Requirements:
 
 | Description     | Type                      |
 | :--------| :--------------------- |
