@@ -11,7 +11,6 @@ Hello there, I'm Manthan Ugemuge <img src="https://github.com/ManthanUgemuge/Man
 - Basic `Html` & `CSS` plays an important role here  making whole website more attractive and responsive for all devices.
 - Different packages are included to make website user friendly and more responsive towards making their trip `more comfortable`, `luxurious` and `safer`.
 -  A Navigation Scroll Bar will be their which will we Helpfull seeing `Images throughout Web Page` & `Scrolling Web Page`.  
-
 <br />
 
 ## Tech Stacks Used :
