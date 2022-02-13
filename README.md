@@ -10,7 +10,7 @@ Hello there, I'm Manthan Ugemuge and I made this Travel/Tourism Booking Website.
 - It has different modules in overall page from `Book`,`Services`,`Packages`,`Galley`,`Review` & `Contact`.
 - Basic `Html` & `CSS` plays an important role here  making whole website more attractive and responsive for all devices.
 - Different packages are included to make website user friendly and more responsive towards making their trip `more comfortable`, `luxurious` and `safer`.
--  A Navigation Scroll Bar will be their which will we Helpfull seeing `Images throughout Web Page` & `Scrolling Web Page`.  
+-  A Navigation Scroll Bar will be their which will we helpfull seeing `Images throughout Web Page` & `Scrolling Web Page`.  
 
 ## Tech Stacks Used :
 <a target="_blank" href="https://www.w3schools.com/html/default.asp"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></img></a>
