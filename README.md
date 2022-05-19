@@ -79,7 +79,7 @@ At present, You can view Website in:
 ```
 https://github.com/ManthanUgemuge/TravelIndia.git
 ```
-Run Directly - [Live]()
+Run Directly - [Live](https://manthanugemuge.github.io/TravelIndia/)//[Download]()
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
