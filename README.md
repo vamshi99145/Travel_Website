@@ -1,6 +1,6 @@
 # Travel India 
 A Simple Tourism or Travel Booking website using Html, Css & Javascript. <br/>
-Hello there, I'm Manthan Ugemuge and I made this Travel/Tourism Booking website.
+Hello there, I'm Vamshi Krishna and I made this Travel/Tourism Booking website.
 
 - 🌐 This Website is made with `Html`, `CSS` & `Javascript`. 
 - It contains a `Homepage` with travel destination all over India and much more.
